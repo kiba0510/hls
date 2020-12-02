@@ -6,8 +6,8 @@
 
 /**
  *main - expected result as bash ls with options -a and -l 
- *argv
- *argc
+ *argv = argument vector
+ *argc = argument counts
  **/
 int main(int argc, char *argv[])	
 {
